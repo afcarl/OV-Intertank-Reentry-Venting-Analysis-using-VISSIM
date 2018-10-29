@@ -1,0 +1,5 @@
+;OV Innertank Plenum: Mass(lbm),Temperature(R),Pressure(psia)
+#I=0,130,1; vent_c1b_oin.vsm  @ Fri Dec 12 17:10:57 1997
+0	28.933	515	11.62
+1	28.802	515	11.568
+1.4	28.748	515	11.546

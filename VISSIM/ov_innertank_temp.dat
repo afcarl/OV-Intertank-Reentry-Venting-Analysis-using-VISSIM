@@ -1,0 +1,5 @@
+;OV Innertank Orifice Flow Temperatures (R)
+#I=0,130,1; vent_c1b_oin.vsm  @ Fri Dec 12 17:10:57 1997
+0	595.36
+1	515
+1.4	515

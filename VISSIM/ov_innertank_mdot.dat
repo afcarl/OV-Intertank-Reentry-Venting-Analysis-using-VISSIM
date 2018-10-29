@@ -1,0 +1,5 @@
+;OV Innertank Orifice Flow Mdot (lbm/s)
+#I=0,130,1; vent_c1b_oin.vsm  @ Fri Dec 12 17:10:57 1997
+0	0
+1	-0.015789
+1.4	-0.015819
